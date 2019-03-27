@@ -1,0 +1,3 @@
+/home/klonek/PK/lista2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/klonek/PK/lista2/cmake-build-debug/CMakeFiles/lista2.dir
+/home/klonek/PK/lista2/cmake-build-debug/CMakeFiles/edit_cache.dir

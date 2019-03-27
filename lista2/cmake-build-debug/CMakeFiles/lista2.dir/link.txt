@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/lista2.dir/main.c.o  -o lista2 
