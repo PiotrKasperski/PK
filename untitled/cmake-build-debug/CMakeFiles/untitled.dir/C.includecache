@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/klonek/PK/untitled/main.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+math.h
+-
+time.h
+-
+
